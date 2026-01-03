@@ -1,1 +1,0 @@
-# dev-mobile-react-native
